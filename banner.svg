@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="180">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="180" rx="12" fill="url(#bg)"/>
+  <rect x="0" y="0" width="4" height="180" rx="2" fill="#4ade80" opacity="0.8"/>
+  <!-- Phone receiver -->
+  <path d="M86 76 Q86 62 96 58 L104 56 Q108 56 108 60 L108 68 Q108 72 104 72 L98 74 Q94 82 94 90 Q94 98 98 106 L104 108 Q108 108 108 112 L108 120 Q108 124 104 124 L96 122 Q86 118 86 104" stroke="#86efac" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Speed lines -->
+  <line x1="118" y1="72" x2="136" y2="72" stroke="#4ade80" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+  <line x1="120" y1="82" x2="142" y2="82" stroke="#4ade80" stroke-width="1.5" stroke-linecap="round" opacity="0.45"/>
+  <line x1="118" y1="92" x2="138" y2="92" stroke="#4ade80" stroke-width="1.5" stroke-linecap="round" opacity="0.3"/>
+  <!-- Contact dots -->
+  <circle cx="144" cy="66" r="2" fill="#86efac" opacity="0.5"/>
+  <circle cx="150" cy="76" r="2" fill="#86efac" opacity="0.4"/>
+  <circle cx="146" cy="86" r="2" fill="#86efac" opacity="0.3"/>
+  <!-- Text -->
+  <text x="190" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="600" fill="#e6edf3" letter-spacing="2">SpeedDial</text>
+  <text x="190" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e" letter-spacing="0.5">One-Tap Calling</text>
+  <line x1="190" y1="122" x2="370" y2="122" stroke="#21262d" stroke-width="1"/>
+  <text x="190" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#6e7681">Minimalist speed dial for your favorite contacts</text>
+</svg>

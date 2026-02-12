@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" alt="SpeedDial Banner" width="100%"/>
+</p>
+
 # SpeedDial
 
 A minimalist Android speed dial app for one-tap calling of your favorite contacts.
