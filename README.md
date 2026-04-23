@@ -16,9 +16,25 @@ A minimalist Android speed dial app for one-tap calling of your favorite contact
 
 ## Screenshots
 
-| Contact List | Add Contact |
-|--------------|-------------|
-| Quick access to all speed dial contacts | Easy contact creation with photo |
+A visual walkthrough of the app.
+
+![01 Empty state](assets/01_empty.png)
+*First launch shows a clean, empty speed dial ready to be filled.*
+
+![02 Add contact](assets/02_add_empty.png)
+*Tap the + button to open a focused Add Contact form with an optional photo.*
+
+![03 Form filled](assets/03_add_filled.png)
+*The Save action appears once name and phone number are both provided.*
+
+![04 Contact list](assets/04_list_multi.png)
+*Favorite contacts stack as cards, each with a one-tap green call button.*
+
+![05 Export and import](assets/05_menu.png)
+*The overflow menu exposes ZIP-based backup and restore for your contacts.*
+
+![06 Edit mode](assets/06_edit_mode.png)
+*Tapping the edit pencil swaps the call button for a delete action, with edit-in-place available on confirm.*
 
 ## How It Works
 
