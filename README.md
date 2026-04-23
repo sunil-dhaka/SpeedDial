@@ -18,23 +18,18 @@ A minimalist Android speed dial app for one-tap calling of your favorite contact
 
 A visual walkthrough of the app.
 
-![01 Empty state](assets/01_empty.png)
-*First launch shows a clean, empty speed dial ready to be filled.*
-
-![02 Add contact](assets/02_add_empty.png)
-*Tap the + button to open a focused Add Contact form with an optional photo.*
-
-![03 Form filled](assets/03_add_filled.png)
-*The Save action appears once name and phone number are both provided.*
-
-![04 Contact list](assets/04_list_multi.png)
-*Favorite contacts stack as cards, each with a one-tap green call button.*
-
-![05 Export and import](assets/05_menu.png)
-*The overflow menu exposes ZIP-based backup and restore for your contacts.*
-
-![06 Edit mode](assets/06_edit_mode.png)
-*Tapping the edit pencil swaps the call button for a delete action, with edit-in-place available on confirm.*
+<table align="center">
+  <tr>
+    <td width="33%" align="center"><img src="assets/01_empty.png" width="230"/><br/><sub>Empty state on first launch</sub></td>
+    <td width="33%" align="center"><img src="assets/02_add_empty.png" width="230"/><br/><sub>Add Contact form</sub></td>
+    <td width="33%" align="center"><img src="assets/03_add_filled.png" width="230"/><br/><sub>Form filled, Save enabled</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><img src="assets/04_list_multi.png" width="230"/><br/><sub>Contact list with call buttons</sub></td>
+    <td width="33%" align="center"><img src="assets/05_menu.png" width="230"/><br/><sub>Export/import menu</sub></td>
+    <td width="33%" align="center"><img src="assets/06_edit_mode.png" width="230"/><br/><sub>Edit mode with delete action</sub></td>
+  </tr>
+</table>
 
 ## How It Works
 
