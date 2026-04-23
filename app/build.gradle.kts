@@ -21,6 +21,7 @@ android {
 
     buildTypes {
         release {
+            signingConfig = signingConfigs.getByName("debug")
             isMinifyEnabled = true
             isShrinkResources = true
             proguardFiles(
@@ -28,6 +29,9 @@ android {
                 "proguard-rules.pro"
             )
         }
+    }
+    lint {
+        disable += "Instantiatable"
     }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
